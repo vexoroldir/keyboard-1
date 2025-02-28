@@ -37,6 +37,6 @@ The PCB design for **Keyboard 1** was developed using **[KiCad](https://www.kica
 
 ## 🔜 Firmware & Future Development  
 
-We are also developing **Vex Firmware** 🛠️, a custom firmware tailored to optimize **Keyboard 1’s** performance and features. Stay tuned for updates! 🚀  
+We are also developing **[Vex Firmware](https://vex.fm/)** 🛠️, a custom firmware tailored to optimize **Keyboard 1’s** performance and features. Stay tuned for updates! 🚀  
 
 💬 **Join the discussion, contribute, and let's build something amazing together!** 🎉  
